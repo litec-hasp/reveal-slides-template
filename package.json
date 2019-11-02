@@ -19,7 +19,7 @@
   "scripts": {
     "clean": "gulp clean",
     "build": "gulp clean && gulp",
-    "start": "gulp clean && concurrently \"gulp watch\" \"serve dist\""
+    "start": "gulp clean && concurrently \"gulp watch\" \"serve dist -l 5000\""
   },
   "repository": {
     "type": "git",
