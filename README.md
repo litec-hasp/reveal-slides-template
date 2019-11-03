@@ -12,5 +12,4 @@
 
 ## TODO
 
-- check versions of packages (especially if `natives` packages is needed)
-- find better way to change port of serve (something like `npm start -- -l 5001`).
+- find better way to change port (something like `npm start -- -l 5001`).
